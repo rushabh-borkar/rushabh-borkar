@@ -114,12 +114,9 @@ I’m trying to build projects where **the result is not just a model or demo, b
 
 Most of my repositories document what I’m learning through implementation—from beginner Java applications to larger ML and computer-vision systems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushabh-borkar&show_icons=true&hide_border=true&theme=transparent" alt="Rushabh's GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushabh-borkar&layout=compact&hide_border=true&theme=transparent" alt="Top Languages">
-</p>
+### Learning Through Building
+
+I learn by building — turning concepts into working projects, experimenting with different approaches, and understanding what works, what fails, and why. My focus is on developing practical skills through continuous implementation.
 
 ---
 
