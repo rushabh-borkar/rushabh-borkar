@@ -42,14 +42,7 @@ I like building projects that turn an idea into something that can actually be t
 
 <h3>🛡️ GuardianX</h3>
 <p>AI-powered emergency detection and incident management platform combining computer vision, camera processing, backend APIs and real-time operational workflows.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-</p>
+<p><b>Tech:</b> Python • FastAPI • YOLOv8 • OpenCV • React • TypeScript • SQLAlchemy • SQLite • WebSockets • Leaflet</p>
 <p><a href="https://github.com/rushabh-borkar/GuardianX">View GuardianX →</a></p>
 
 <h3>🕵️ Fraud Detection ML</h3>
@@ -63,15 +56,6 @@ I like building projects that turn an idea into something that can actually be t
 <h3>☄️ Near-Earth Asteroid Hazard Classification</h3>
 <p>Classification project using logistic regression to identify potentially hazardous near-Earth asteroids from structured data.</p>
 <p><a href="https://github.com/rushabh-borkar/Near-Earth-Asteroid-Hazard-Classification-using-Logistic-Regression">View project →</a></p>
-
-<h3>☕ Java Projects</h3>
-<p>I also build Java applications to strengthen object-oriented programming, application logic and problem solving.</p>
-<p>
-<a href="https://github.com/rushabh-borkar/snake-game-java">Snake Game</a> •
-<a href="https://github.com/rushabh-borkar/splitwise-java">Splitwise</a> •
-<a href="https://github.com/rushabh-borkar/BANKING-SYSTEM-USING-BASIC-JAVA-">Banking System</a> •
-<a href="https://github.com/rushabh-borkar/TicTacToe">Tic Tac Toe</a>
-</p>
 
 <h2>🛠️ Some tools I use</h2>
 <p align="left">
@@ -87,7 +71,6 @@ I like building projects that turn an idea into something that can actually be t
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30" height="30">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30">
 </p>
 
 <p><b>Core areas:</b> Machine Learning • Computer Vision • Data Analysis • Backend APIs • Real-Time Systems • Java / OOP • DSA</p>
