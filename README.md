@@ -29,10 +29,10 @@ I’m especially interested in the parts of ML that are easy to get wrong: **dat
 
 ### What I work with
 
-**Programming:** Python, Java, SQL, JavaScript/TypeScript
-**ML & Data:** pandas, NumPy, scikit-learn, PyTorch, model evaluation, classification, regression, preprocessing, imbalanced-data analysis, leakage detection
-**Computer Vision:** OpenCV, object detection workflows, real-time camera processing
-**Backend:** FastAPI, SQLAlchemy, SQLite, WebSockets, API design
+**Programming:** Python, Java, SQL, JavaScript/TypeScript  
+**ML & Data:** pandas, NumPy, scikit-learn, PyTorch, model evaluation, classification, regression, preprocessing, imbalanced-data analysis, leakage detection  
+**Computer Vision:** OpenCV, object detection workflows, real-time camera processing  
+**Backend:** FastAPI, SQLAlchemy, SQLite, WebSockets, API design  
 **Software Engineering:** OOP, DSA, Git/GitHub, application architecture
 
 ---
@@ -43,14 +43,14 @@ I’m especially interested in the parts of ML that are easy to get wrong: **dat
 
 AI-powered emergency detection and incident-management platform combining **computer vision, camera processing, backend APIs, real-time communication, and operational workflows**.
 
-**Stack:** Python • FastAPI • YOLOv8 • OpenCV • React • TypeScript • SQLAlchemy • SQLite • WebSockets • Leaflet
+**Stack:** Python • FastAPI • YOLOv8 • OpenCV • React • TypeScript • SQLAlchemy • SQLite • WebSockets • Leaflet  
 → [View GuardianX](https://github.com/rushabh-borkar/GuardianX)
 
 ### 🕵️ Fraud Detection ML
 
 Fraud-classification project focused on the harder side of imbalanced ML: understanding why a very high accuracy score can still represent a useless detector, and moving toward stronger evaluation and leakage checks.
 
-**Focus:** preprocessing • imbalance • evaluation • leakage detection
+**Focus:** preprocessing • imbalance • evaluation • leakage detection  
 → [View fraud-detection-ml](https://github.com/rushabh-borkar/fraud-detection-ml)
 
 ### 📉 Churn Prediction
@@ -59,11 +59,11 @@ End-to-end supervised learning project for customer churn prediction, covering d
 
 → [View ChurnPrediction](https://github.com/rushabh-borkar/ChurnPrediction)
 
-### 🏠 House Price Predictor
+### 🏭 Predictive Maintenance — Machine Failure Prediction
 
-Regression project for estimating house prices from structured features.
+Machine learning project focused on **predicting machine failures from industrial sensor data**, supporting condition-based maintenance and reducing unexpected downtime.
 
-→ [View house-price-predictor](https://github.com/rushabh-borkar/house-price-predictor)
+→ [View Predictive Maintenance project](https://github.com/rushabh-borkar/Predictive-Maintenance-Machine-Failure-Prediction.git)
 
 ### ☄️ Near-Earth Asteroid Hazard Classification
 
@@ -77,9 +77,9 @@ Logistic-regression classification project using structured astronomical data to
 
 I’m using Java to strengthen **OOP, data structures, application design, and problem solving** through small but complete applications.
 
-→ [Banking System](https://github.com/rushabh-borkar/BANKING-SYSTEM-USING-BASIC-JAVA-)
-→ [Splitwise Java](https://github.com/rushabh-borkar/splitwise-java)
-→ [Snake Game](https://github.com/rushabh-borkar/snake-game-java)
+→ [Banking System](https://github.com/rushabh-borkar/BANKING-SYSTEM-USING-BASIC-JAVA-)  
+→ [Splitwise Java](https://github.com/rushabh-borkar/splitwise-java)  
+→ [Snake Game](https://github.com/rushabh-borkar/snake-game-java)  
 → [Simple Calculator](https://github.com/rushabh-borkar/SimpleCalculator-Java)
 
 ---
